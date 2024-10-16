@@ -35,7 +35,8 @@ descripciones = {
     "Clásica (1776 - 1870)": """
         La escuela clásica, encabezada por economistas como Adam Smith y David Ricardo,
         sostiene que los mercados son autorreguladores y que la intervención del gobierno debe ser mínima.
-        Surgió en el siglo XVIII con la publicación de *La riqueza de las naciones* (1776) de Adam Smith,
+        Surgió en el siglo XVIII con la publicación de *La riqueza de las naciones* (1776)
+        de Adam Smith [DIvisión del  trabajo, Egoismo de los empresarios, Mano invisible, seguridad al empresario],
         y dominó hasta finales del siglo XIX.
     """,
     "Keynesiana (1930s - Presente)": """
@@ -52,7 +53,12 @@ descripciones = {
     "Marxista (1850s - Presente)": """
         Basada en las teorías de Karl Marx, esta escuela critica el capitalismo y aboga por la lucha de clases
         como motor del cambio social y económico. Propone una transición hacia una sociedad sin clases.
-        La obra clave es *El Capital* (1867). Aunque nació en el siglo XIX, sigue vigente en debates contemporáneos.
+        La obra clave es *El Capital* (1867) [Mercancia: Valor de Cambio y Valor de Uso, Trabajo socialmente necesario,
+        Valor de la mercancia= c+v+p,Tasa de plusvalor=p/v, M-M, M-D-M vs D-M-D',D-D'].
+        Durante una parte del proceso laboral el obrero se limita a producir el valor de su fuerza de trabajo (medios de subsistencia).
+        El proceso de consumo de la fuerza de trabajo se efectua fuera de la esfera de circulación.
+        La mercancia como medida de valor y tambien de circulación es el dinero.
+        Aunque nació en el siglo XIX, sigue vigente en debates contemporáneos.
     """,
     "Austriaca (1870s - Presente)": """
         Esta escuela se originó en Austria a fines del siglo XIX con Carl Menger y se centra en la importancia del
