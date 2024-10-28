@@ -44,7 +44,9 @@ descripciones = {
         esta escuela defiende que el gobierno debe intervenir para estabilizar la economía mediante
         políticas fiscales y monetarias, especialmente en tiempos de recesión. Su obra más influyente es
         *La Teoría General del Empleo, el Interés y el Dinero* (1936).
+
         Factores que afectan la Propensión Marginal del Consumo:
+
         Factores objetivos:
 
         Un cambio en la unidad de salario.
