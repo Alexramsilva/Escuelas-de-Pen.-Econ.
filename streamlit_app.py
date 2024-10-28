@@ -44,25 +44,38 @@ descripciones = {
         esta escuela defiende que el gobierno debe intervenir para estabilizar la economía mediante
         políticas fiscales y monetarias, especialmente en tiempos de recesión. Su obra más influyente es
         *La Teoría General del Empleo, el Interés y el Dinero* (1936).
-
         Factores que afectan la Propensión Marginal del Consumo:
-
         Factores objetivos:
-Un cambio en la unidad de salario.
-Un cambio en la diferencia entre el ingreso bruto y el ingreso neto.
-Cambios inesperados en los valores de capital que no se han considerado en el cálculo del ingreso neto.
-Cambios en la tasa de descuento temporal, es decir, en la relación de intercambio entre bienes presentes y bienes futuros.
-Cambios en la política fiscal.
-Cambios en las expectativas sobre la relación entre el nivel de ingresos presente y futuro.
-Factores subjetivos:
-Formar una reserva contra contingencias imprevistas.
-Proveer para una relación futura anticipada entre los ingresos y las necesidades del individuo o su familia diferente de la actual, como en el caso de la vejez, la educación familiar o el mantenimiento de personas dependientes.
-Disfrutar de intereses y apreciación, es decir, porque se prefiere un consumo real mayor en el futuro a un consumo inmediato menor.
-Disfrutar de un gasto en aumento gradual, ya que satisface un instinto común de anticipar una mejora gradual en el nivel de vida en lugar de lo contrario, aunque la capacidad de disfrute pueda estar disminuyendo.
-Disfrutar de una sensación de independencia y el poder de actuar, aunque sin una idea clara o intención definida de una acción específica.
-Asegurar una "masse de manoeuvre" para llevar a cabo proyectos especulativos o empresariales.
-Legar una fortuna.
-Satisfacer la pura avaricia, es decir, inhibiciones irracionales pero insistentes contra actos de gasto como tales.
+
+        Un cambio en la unidad de salario.
+
+        Un cambio en la diferencia entre el ingreso bruto y el ingreso neto.
+
+        Cambios inesperados en los valores de capital que no se han considerado en el cálculo del ingreso neto.
+
+        Cambios en la tasa de descuento temporal.
+
+        Cambios en la política fiscal.
+
+        Cambios en las expectativas sobre la relación entre el nivel de ingresos presente y futuro.
+
+        Factores subjetivos:
+
+        Formar una reserva contra contingencias imprevistas.
+
+        Proveer para una relación futura anticipada entre los ingresos y las necesidades del individuo o su familia diferente de la actual.
+
+        Disfrutar de intereses y apreciación.
+
+        Disfrutar de un gasto en aumento gradual.
+
+        Disfrutar de una sensación de independencia y el poder de actuar.
+
+        Asegurar una "masse de manoeuvre" para llevar a cabo proyectos especulativos o empresariales.
+
+        Legar una fortuna.
+
+        Satisfacer la pura avaricia, es decir, inhibiciones irracionales pero insistentes contra actos de gasto como tales.
 
     """,
     "Neoclásica (1870 - Presente)": """
